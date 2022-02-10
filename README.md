@@ -1,9 +1,7 @@
-# kunkawee3829-Gen-Token-For-Discord-Free-
-This is a Gen TOKEN In Disocrd For Free 80%work Token 20%failed Token
 # Gen-Token-Discord
 Gennarator Token Discord Verified Email and Phone Number
 
-![s](https://images.theconversation.com/files/281285/original/file-20190626-81758-127sbsq.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&h=522&fit=crop&dpr=1)
+![s](https://cdn.discordapp.com/attachments/929044420488212541/932543666780766238/Mori2.png)
 
 # Discord Token Generator
 
