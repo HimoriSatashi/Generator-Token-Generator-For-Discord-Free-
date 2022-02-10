@@ -1,7 +1,7 @@
 # Gen-Token-Discord
 Gennarator Token Discord Verified Email and Phone Number
 
-![s](https://cdn.discordapp.com/attachments/929044420488212541/932543666780766238/Mori2.png)
+![s](https://exportcomments.com/resources/content/images/size/w2000/2020/07/y6rc2sm425051.jpg)
 
 # Discord Token Generator
 
