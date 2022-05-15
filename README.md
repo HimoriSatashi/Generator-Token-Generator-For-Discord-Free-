@@ -8,13 +8,13 @@ Gennarator Token Discord Verified Email and Phone Number
 ## How to Install
 
 ```
-Click open files and see Himori.exe!
+Click open files and see Mori.exe!
 ```
 
 ## How to Run
 
 ```
-Click Himori.exe to run 
+Click Mori.exe to run 
 ```
 
 
